@@ -1,0 +1,256 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:@react-native-community_masked-view] /Users/rab/Desktop/MyRNProjects/chatBotDemo/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /Users/rab/Desktop/MyRNProjects/chatBotDemo/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-picker] /Users/rab/Desktop/MyRNProjects/chatBotDemo/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [:react-native-reanimated] /Users/rab/Desktop/MyRNProjects/chatBotDemo/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] /Users/rab/Desktop/MyRNProjects/chatBotDemo/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/rab/.gradle/caches/transforms-2/files-2.1/e8c761f6f3c06ed3535dbe7f6f154e14/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/rab/.gradle/caches/transforms-2/files-2.1/649e99afabf592c699e984bc92c63b9b/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/rab/.gradle/caches/transforms-2/files-2.1/79042e2c6e0496542b246bfac0b40c9a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/c90e4b7250dde83fb7565dcf2abba7e3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/d1c7c1c0058bea1a28e6869f22e1915c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/6ae958f6fb24c8050755c95b7573dea1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/1b4c216509904993d57a3b88b55b065d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/c24631b279ff71565c3ccb87ab2f90a5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/4c6f8a9d6d962851cc0afe2f938a696a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/501d0d8c8d56d20f24b2e1fc9aecf9b1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/1e4558743c43ffec8035d84e20a41fcc/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.transition:transition:1.1.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/a1691beed749b0ac129519ddc170374b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/71337ea7d9a856273df773afa6defdb5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/8e3e0aa4e06607256ed1e62b9d8e7755/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/930885194a60eff3bdb79c0e6cc0fe59/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/6d2e1a6713011fc23a88a799811a0e60/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/rab/.gradle/caches/transforms-2/files-2.1/377cccca777cc016a4ad4c192dbe247c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/e29b74dad3c29633800fc4f9689df660/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/4196e17aadc9a0cfad4a7a88488cdaa5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/e77560eb83f48b6beeeed2a54485705c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/17cdbd8bf9dea9dc81d4c1547bb82dd3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/870991a56e3b21b37d1031a209a515f5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/0ec46a0a268b1a2c4c91b69ce50252b8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/e32b571c84c1f99a2a2c8cd1135d7f04/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/80d8f21a81bb3b8f252a9910b7e0864b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/rab/.gradle/caches/transforms-2/files-2.1/764f46be80b05128be21485fbca56d47/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/33a6539eef515e0db9dd22d86de7d9e2/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/9b3951eb81801d50bd2b7db39a70550d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/b444b0ab1f37bdb976266cf1c7a412fd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/dff4df9e73bed03a797e66c1e9bd47ff/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/97c1c68e808227185f465d04a7b6a012/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/4dd246db898d30cb31861ef9e1ce18d3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/62f0da1df94a02def21be0f8fc0346dd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/f3095e1844df91653dc8e518a70a49ab/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/fafacc7a5abb3c1a5cd2f8c66e27c915/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/5e35e34c069fcf4b665531dfccc8c4de/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/4da55d40a44aa6135a71ceba187801d6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/d10d016e7799683036a26e37d3b7f6d1/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/main/AndroidManifest.xml:2:3-28
+		INJECTED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/main/AndroidManifest.xml:2:3-28
+		INJECTED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [:react-native-image-picker] /Users/rab/Desktop/MyRNProjects/chatBotDemo/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-image-picker] /Users/rab/Desktop/MyRNProjects/chatBotDemo/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/rab/.gradle/caches/transforms-2/files-2.1/e8c761f6f3c06ed3535dbe7f6f154e14/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/rab/.gradle/caches/transforms-2/files-2.1/e8c761f6f3c06ed3535dbe7f6f154e14/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/1e4558743c43ffec8035d84e20a41fcc/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/1e4558743c43ffec8035d84e20a41fcc/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/rab/.gradle/caches/transforms-2/files-2.1/764f46be80b05128be21485fbca56d47/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/rab/.gradle/caches/transforms-2/files-2.1/764f46be80b05128be21485fbca56d47/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/33a6539eef515e0db9dd22d86de7d9e2/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/33a6539eef515e0db9dd22d86de7d9e2/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/rab/.gradle/caches/transforms-2/files-2.1/764f46be80b05128be21485fbca56d47/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.chatbotdemo.MainActivity
+ADDED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/main/AndroidManifest.xml
+MERGED from [:@react-native-community_masked-view] /Users/rab/Desktop/MyRNProjects/chatBotDemo/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_masked-view] /Users/rab/Desktop/MyRNProjects/chatBotDemo/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/rab/Desktop/MyRNProjects/chatBotDemo/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/rab/Desktop/MyRNProjects/chatBotDemo/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] /Users/rab/Desktop/MyRNProjects/chatBotDemo/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-picker] /Users/rab/Desktop/MyRNProjects/chatBotDemo/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] /Users/rab/Desktop/MyRNProjects/chatBotDemo/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/rab/Desktop/MyRNProjects/chatBotDemo/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] /Users/rab/Desktop/MyRNProjects/chatBotDemo/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/rab/Desktop/MyRNProjects/chatBotDemo/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/rab/.gradle/caches/transforms-2/files-2.1/e8c761f6f3c06ed3535dbe7f6f154e14/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/rab/.gradle/caches/transforms-2/files-2.1/e8c761f6f3c06ed3535dbe7f6f154e14/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/rab/.gradle/caches/transforms-2/files-2.1/649e99afabf592c699e984bc92c63b9b/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/rab/.gradle/caches/transforms-2/files-2.1/649e99afabf592c699e984bc92c63b9b/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/rab/.gradle/caches/transforms-2/files-2.1/79042e2c6e0496542b246bfac0b40c9a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/rab/.gradle/caches/transforms-2/files-2.1/79042e2c6e0496542b246bfac0b40c9a/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/c90e4b7250dde83fb7565dcf2abba7e3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/c90e4b7250dde83fb7565dcf2abba7e3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/d1c7c1c0058bea1a28e6869f22e1915c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/d1c7c1c0058bea1a28e6869f22e1915c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/6ae958f6fb24c8050755c95b7573dea1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/6ae958f6fb24c8050755c95b7573dea1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/1b4c216509904993d57a3b88b55b065d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/1b4c216509904993d57a3b88b55b065d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/c24631b279ff71565c3ccb87ab2f90a5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/c24631b279ff71565c3ccb87ab2f90a5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/4c6f8a9d6d962851cc0afe2f938a696a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/4c6f8a9d6d962851cc0afe2f938a696a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/501d0d8c8d56d20f24b2e1fc9aecf9b1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/501d0d8c8d56d20f24b2e1fc9aecf9b1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/1e4558743c43ffec8035d84e20a41fcc/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/1e4558743c43ffec8035d84e20a41fcc/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.transition:transition:1.1.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/a1691beed749b0ac129519ddc170374b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/a1691beed749b0ac129519ddc170374b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/71337ea7d9a856273df773afa6defdb5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/71337ea7d9a856273df773afa6defdb5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/8e3e0aa4e06607256ed1e62b9d8e7755/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/8e3e0aa4e06607256ed1e62b9d8e7755/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/930885194a60eff3bdb79c0e6cc0fe59/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/930885194a60eff3bdb79c0e6cc0fe59/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/6d2e1a6713011fc23a88a799811a0e60/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/6d2e1a6713011fc23a88a799811a0e60/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/rab/.gradle/caches/transforms-2/files-2.1/377cccca777cc016a4ad4c192dbe247c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/rab/.gradle/caches/transforms-2/files-2.1/377cccca777cc016a4ad4c192dbe247c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/e29b74dad3c29633800fc4f9689df660/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/e29b74dad3c29633800fc4f9689df660/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/4196e17aadc9a0cfad4a7a88488cdaa5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/4196e17aadc9a0cfad4a7a88488cdaa5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/e77560eb83f48b6beeeed2a54485705c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/e77560eb83f48b6beeeed2a54485705c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/17cdbd8bf9dea9dc81d4c1547bb82dd3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/17cdbd8bf9dea9dc81d4c1547bb82dd3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/870991a56e3b21b37d1031a209a515f5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/870991a56e3b21b37d1031a209a515f5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/0ec46a0a268b1a2c4c91b69ce50252b8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/0ec46a0a268b1a2c4c91b69ce50252b8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/e32b571c84c1f99a2a2c8cd1135d7f04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/e32b571c84c1f99a2a2c8cd1135d7f04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/80d8f21a81bb3b8f252a9910b7e0864b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/80d8f21a81bb3b8f252a9910b7e0864b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/rab/.gradle/caches/transforms-2/files-2.1/764f46be80b05128be21485fbca56d47/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/rab/.gradle/caches/transforms-2/files-2.1/764f46be80b05128be21485fbca56d47/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/33a6539eef515e0db9dd22d86de7d9e2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/33a6539eef515e0db9dd22d86de7d9e2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/9b3951eb81801d50bd2b7db39a70550d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/9b3951eb81801d50bd2b7db39a70550d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/b444b0ab1f37bdb976266cf1c7a412fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/b444b0ab1f37bdb976266cf1c7a412fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/dff4df9e73bed03a797e66c1e9bd47ff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/dff4df9e73bed03a797e66c1e9bd47ff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/97c1c68e808227185f465d04a7b6a012/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/97c1c68e808227185f465d04a7b6a012/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/4dd246db898d30cb31861ef9e1ce18d3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/4dd246db898d30cb31861ef9e1ce18d3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/62f0da1df94a02def21be0f8fc0346dd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/62f0da1df94a02def21be0f8fc0346dd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/f3095e1844df91653dc8e518a70a49ab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/f3095e1844df91653dc8e518a70a49ab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/fafacc7a5abb3c1a5cd2f8c66e27c915/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/fafacc7a5abb3c1a5cd2f8c66e27c915/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/5e35e34c069fcf4b665531dfccc8c4de/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/5e35e34c069fcf4b665531dfccc8c4de/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/4da55d40a44aa6135a71ceba187801d6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/4da55d40a44aa6135a71ceba187801d6/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/d10d016e7799683036a26e37d3b7f6d1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/rab/.gradle/caches/transforms-2/files-2.1/d10d016e7799683036a26e37d3b7f6d1/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/rab/Desktop/MyRNProjects/chatBotDemo/android/app/src/debug/AndroidManifest.xml:5:22-75
+provider#com.imagepicker.FileProvider
+ADDED from [:react-native-image-picker] /Users/rab/Desktop/MyRNProjects/chatBotDemo/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] /Users/rab/Desktop/MyRNProjects/chatBotDemo/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] /Users/rab/Desktop/MyRNProjects/chatBotDemo/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-60
+	android:exported
+		ADDED from [:react-native-image-picker] /Users/rab/Desktop/MyRNProjects/chatBotDemo/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:react-native-image-picker] /Users/rab/Desktop/MyRNProjects/chatBotDemo/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-56
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-picker] /Users/rab/Desktop/MyRNProjects/chatBotDemo/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-17:58
+	android:resource
+		ADDED from [:react-native-image-picker] /Users/rab/Desktop/MyRNProjects/chatBotDemo/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-55
+	android:name
+		ADDED from [:react-native-image-picker] /Users/rab/Desktop/MyRNProjects/chatBotDemo/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:17-67
